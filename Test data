@@ -1,0 +1,530 @@
+ASK USER-
+Question   Welcome to <b> Satyam Store </b>  . <newMessage>  My name is Chatty and I am a digital cloth store assistant. <newMessage> How can I help you <i>today </i> ?<newMessage>  <a href="https://www.ajio.com/" target="_blank">Satyam store </a>
+Fallback— Please enter a valid input.
+Variable— Welcome_page
+
+SUGGESTION
+
+Question- Hi there! Welcome to <b> Satyam Store </b>! 👋. <newMessage>  How can I assist you today? <newMessage> <a href="https://www.ajio.com/" target="_blank">Satyam store </a>
+Suggestion- Shop by Category
+                    Track My Order
+                   Contact Support
+                   <noblitzicoflow> master
+Fallback- Please select a valid Option!
+Variable-   home_page
+
+SUGGESTION1
+Question- Thank you for selecting $home_page . <NewMessage> Sure thing! What category are you interested in?
+Suggestion- Men’s Clothing
+                    Women’s Clothing
+Fallback- Please select a valid Option!
+Variable-   Gender_page
+
+GALLERY CARD-
+Message before card— Thank you for selecting <b>  $Gender_page   </b>  <newMessage> Awesome! Here are our latest arrivals <newMessage> <a href="https://www.ajio.com/" target="_blank">Satyam store </a>
+Image url 1- https://assets.ajio.com/medias/sys_master/root/20240731/TrTu/66aa562f1d763220fa517147/-473Wx593H-410475053-1947-MODEL.jpg 
+Float url- https://assets.ajio.com/medias/sys_master/root/20240731/jrsj/66aa5ccf1d763220fa51888a/-473Wx593H-410475053-1947-MODEL4.jpg 
+Title-  ARMANI EXCHANGE
+Subtitle-  ₹8,999
+Description- Essential Cotton Twill Shirt
+
+Image URL 2- https://assets.ajio.com/medias/sys_master/root/20230524/qErS/646e449042f9e729d7ab8ee6/-473Wx593H-460758159-grey-MODEL.jpg 
+Float URL- https://assets.ajio.com/medias/sys_master/root/20230524/MpOH/646e376cd55b7d0c63d63e94/-473Wx593H-460758159-grey-MODEL6.jpg 
+Title-  THE INDIAN GARAGE CO
+Subtitle- ₹735
+Description-  Slim Fit Shirt with Flap Pockets
+
+Image URL 3- https://assets.ajio.com/medias/sys_master/root/20240701/RA36/668287261d763220fa90f4e8/-473Wx593H-442592584-white-MODEL7.jpg 
+Float URL- https://assets.ajio.com/medias/sys_master/root/20240701/RA36/668287261d763220fa90f4e8/-473Wx593H-442592584-white-MODEL7.jpg 
+Title-  GAP
+Subtitle-₹1,799
+Description-  Men Solid Full Sleeve Shirt with Flap Pockets
+ 
+
+
+Image URL 4- https://assets.ajio.com/medias/sys_master/root/20221031/vTD5/635feb14f997ddfdbd4c730a/-473Wx593H-410345559-z098-MODEL.jpg 
+Float URL- https://assets.ajio.com/medias/sys_master/root/20221031/vTD5/635feb14f997ddfdbd4c730a/-473Wx593H-410345559-z098-MODEL.jpg 
+Title-  GAS
+Subtitle-₹1,680
+Description-  Kant Checked Slim Fit IN Shirt
+
+
+
+
+Image URL 5- https://assets.ajio.com/medias/sys_master/root/20240607/lVJv/6662b79e05ac7d77bba71459/-473Wx593H-441895754-blue-MODEL.jpg 
+Float URL- https://assets.ajio.com/medias/sys_master/root/20240607/lVJv/6662b79e05ac7d77bba71459/-473Wx593H-441895754-blue-MODEL.jpg 
+Title-  SPYKAR
+Subtitle- ₹2,975
+Description-  Men Lightly-Washed Skinny Fit Distressed Jeans
+
+
+
+
+Image URL 6- https://assets.ajio.com/medias/sys_master/root/20240610/SuRH/6666e7ce16fd2c6e6a6ccb93/-473Wx593H-441920652-blue-MODEL.jpg 
+Float URL- https://assets.ajio.com/medias/sys_master/root/20230508/XNVO/6459170542f9e729d76f0fef/-473Wx593H-441920652-blue-MODEL4.jpg 
+Title-  PEPE JEANS
+Subtitle- ₹2,820
+Description-  Men Vapour Mid-Wash Distressed Slim Fit Jeans
+
+
+
+Image URL 7- https://assets.ajio.com/medias/sys_master/root/20240703/j8Wr/6685bb976f60443f314a75c6/-473Wx593H-442529911-black-MODEL.jpg 
+Float URL- https://assets.ajio.com/medias/sys_master/root/20240703/ArPq/6685c8821d763220fac3b047/-473Wx593H-442529911-black-MODEL4.jpg 
+Title-  GAP
+Subtitle- ₹1,799
+Description-  Men Washed Mid-Rise Skinny Fit Jeans 4.2
+
+
+
+
+Text Button-  Text.      Thank you for clicking
+Suggest-  Suggest
+URL-  https://www.ajio.com/men-jeans/c/830216001 
+
+Message After Card—  <b> Note- </b> After click on Buy it will redirecting to AJIO <newMessage> Satyam store ™ <newMessage>  <a href="https://www.ajio.com/" target="_blank">Satyam store </a>
+Suggestion- next
+Fallback- Please select valid input!
+Variable— mens_jeans
+
+GALLERY CARD-
+Message before card— Thank you for selecting <b>  $Gender_page   </b>  <newMessage> Awesome! Here are our latest arrivals <newMessage> <a href="https://www.ajio.com/" target="_blank">Satyam store </a>
+Image url 1- https://assets.ajio.com/medias/sys_master/root/20230629/JY9Y/649cd7e1eebac147fc333a75/-473Wx593H-466030885-mauve-MODEL2.jpg 
+Float url- https://assets.ajio.com/medias/sys_master/root/20230629/JY9Y/649cd7e1eebac147fc333a75/-473Wx593H-466030885-mauve-MODEL2.jpg 
+Title- Subash
+Subtitle-  ₹2550
+Description- Essential Cotton Twill Saree
+
+
+Image url 2- https://assets.ajio.com/medias/sys_master/root/20240729/FM6H/66a729581d763220fa48e1df/-473Wx593H-443053794-wine-MODEL.jpg  
+Float url- https://assets.ajio.com/medias/sys_master/root/20240729/FM6H/66a729581d763220fa48e1df/-473Wx593H-443053794-wine-MODEL.jpg  
+Title- AVAASA MIX N' MATCH
+Subtitle-  ₹550
+Description- Essential Cotton Twill kurta
+
+Message After Card—  <b> Note- </b> After click on Buy it will redirecting to AJIO <newMessage> Satyam store ™ <newMessage>  <a href="https://www.ajio.com/" target="_blank">Satyam store </a>
+Suggestion- next
+Fallback- Please select valid input!
+Variable— women
+
+
+
+PICTURE CARD-
+Message before card— Message Before Card--Picture card <newMessage> Second Message <newMessage> <a href="https://www.google.co.in/" target="_blank">link text</a>
+
+Image URL 1-  https://images.pexels.com/photos/56866/garden-rose-red-pink-56866.jpeg
+Image Url 2- https://avatars.mds.yandex.net/i?id=57594a727d0945671a9ac577e15ef2ea-5217100-images-taas-consumers&n=27&h=480&w=480
+Message After Card—   Message after Card--Gallery card <newMessage> Second Message <newMessage> <a href="https://www.google.co.in/" target="_blank">link text</a>
+Suggestion- Sugg1
+                    Sugg2
+                    Sugg3
+                    Sugg4
+                    <noblitzicoflow> master
+Fallback-   Fallback message from picture card.
+Variable— picture_card
+
+
+VIDEO CARD
+Message before card— Message Before Card--Video card <newMessage> Trending Videos  Message <newMessage> <a href="https://www.youtube.com/" target="_blank">link text</a>
+Card links- 50 YouTubers Fight For $1,000,000
+                     THE END OF MAFIA BOSS | GTA 5 GAMEPLAY #154
+Message After card— Message Before Card--Video card <newMessage> Trending Videos  Message <newMessage> <a href="https://www.youtube.com/" target="_blank">link text</a>
+Suggestion- Sugg1
+                    Sugg2
+                    Sugg3
+                    Sugg4
+                   <noblitzicoflow> master
+Fallback- Fallback message from Suggestion node?
+Variable-   video_card
+
+   LLM CLASSIFIER
+Bot question- Choose Developer or Tester
+Topic(s) -        Developer                     Tester
+  Minimum 3 variations of input
+                       Developer                            Tester
+                      Software Developer              Software Tester
+                      front end Dev.                       Manual Tester
+                      Dev                                        QA
+Fallback- Fallback message from LLM node?
+Variable-   llm_node
+
+
+   SPEAK TO AGENT
+Agent available  - Agent will join the conversation shortly.
+Agent unavailable-  Sorry, currently no agents are available. Please try again after some time. You can continue talking to Enterprise Bot for more help.
+Agent request off-  No agent is available right now. You can continue talking to our Enterprise Bot.
+Agents busy-All the agents are currently busy with other users. Please hold till the agent joins the conversation to assist you.
+Department- IT
+Suggestion- Sugg1
+                    Sugg2
+                    Sugg3
+                    Sugg4
+                   <noblitzicoflow> master
+Fallback- Fallback message from Speak To Agent node?
+
+
+OMEGA CARD-
+Header-
+             Text- Address
+             Class- Head
+Textfield-
+               Label- Name
+               Placeholder- Ex- name
+               Help- Enter the name
+               Class- Tefi
+              Prefill value-  $textfield
+              Mandatory Error Message-  Please Enter ,Error message from mandatory
+             Regex value- 
+             Regex error message- Error message from regex
+Textarea
+               Label- Full Address
+               Placeholder- Ex- Address
+               Help- Enter the Address
+               Class- tear
+              Prefill value-  $textarea
+              Mandatory Error Message-  Please Enter ,Error message from mandatory
+             Regex value- 
+             Regex error message- Error message from regex
+
+Date picker-
+                Label- DOB
+               Placeholder- Ex- Date of birth
+               Help- Enter the DOB
+               Class- depi
+              Prefill value-  $date
+              Mandatory Error Message-  Please Enter ,Error message from mandatory
+
+
+Time picker
+                      Label- Choose time for delivery
+               Placeholder- Ex- time
+               Help- Enter the time
+               Class- tipi
+              Prefill value-  $time
+              Mandatory Error Message-  Please Enter ,Error message from mandatory
+
+
+Numeric field
+                Label- Mobile number
+               Placeholder- Ex- Mobile number
+               Help- Enter the Mobile number
+               Class- nufi
+              Prefill value-  $number
+              Mandatory Error Message-  Please Enter ,Error message from mandatory
+              Regex value- 
+             Regex error message- Error message from regex
+
+Dropdown select
+                Label- Select State
+               Placeholder- Ex- BR
+               Help- Select the state code
+               Class- drse
+              Prefill value-  $drop
+              Mandatory Error Message-  Please Enter ,Error message from mandatory
+             Option-  BR
+                            DL
+                           KA
+                           UP
+Dropdown API link-  https://614436dc411c860017d25343.mockapi.io/dropdown
+   Prefill value-  $drop1
+
+
+Checkbox button-
+                 Label- Select State
+               Placeholder- Ex- BR
+               Help- Select the state code
+               Class- chbu
+              Prefill value-  $check
+              Mandatory Error Message-  Please Enter ,Error message from mandatory
+             Option-  JH
+                            AS
+                           TN
+                           KL
+
+
+Radio button-
+                        
+                 Label- Select Country
+               Help- Select the Country code
+               Class- rabu
+              Prefill value-  $radio
+              Mandatory Error Message-  Please Enter ,Error message from mandatory
+             Option-  IN
+                            PK
+                           BD
+                           US
+Change node for Omega card-(prefill)-
+textfield- robinhood pandey
+textarea- at- Bangalore ,560048
+number- 7256-77229
+date- 12/07/2002 
+time-  12:44 AM
+radio-  IN
+check-  KL
+drop-  BR
+Drop1- Three
+
+Regex for validation-
+ Email- ^[a-zA-Z0-9_.±]+@[a-zA-Z0-9-]+.[a-zA-Z0-9-.]+$
+Indian Mobile number- \+?\d{2}\s*\-?\d+
+Indian pincode- ^[1-9]{1}\d{2}\s?\d{3}$
+
+
+GSHEET-
+Spreadsheet Id- 17a1w3CnAaZZ5zH_GYzBf3fnB-4lPadaAkmqGnjjRrYE
+JSON Data-  
+                   
+{
+  "type": "service_account",
+  "project_id": "cellular-sylph-421807",
+  "private_key_id": "3f16d06ea7663e3b10adede7fb12017152f2df23",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCnGtfvp2KiW2Ku\nTJvmGXTiU1wmYWNNxcXplGmEKHMs/ler451i9uMldVmdLEq+dXWjdV3TxNuLOyj7\nEaBMo+vm9dBSymccESu5JWFjBH0Og+vQgAJUfTp2dwyE9oWXmIzzpQCWCUZY2WIH\nfsUYEk9UYNhcbZtsSb041GXT6nsaJ/zDuMx96BmBD+c8XSOodkMe55Tn+bPlUAwp\nw1FI1OzbGdAq6A0klJJTzH4qZAze1AHaIitTDOFhx4komWfs3JbETStIOuccvZDx\n+cWrErctI3CGGjZmSJNXS04cNLrMn+epJ+j/03Nk7gbfrdDGnampF+04JXm9dpNN\nmxuzRKr1AgMBAAECggEABgmWagO6W2hW2TpOWv1qIi/l1ph9Ldb/7rpcfO24ij8e\n7B3GAXMvGMWJI9XGVjmd3aEvbyfKe4N7LbsLd3QStrOvP6vYFtpYoeYDreqrGVuo\nfk4psg4bjyJ/qCF/Xnn2BGrelGJ9vAG6pM+uj6SVtimQ7PdO1BZD87+Eyv0f+SgP\n9PJ6pwWZDfIk225z1Ofi1AiHyEgYGLRfxFsqJdX+hgtDlb7kJucE9Ruw6w1IHqOp\n/AanNcgdWpyAnv3aDxl9QFN+pKKu8QLOyX2ObTqYASzflRI9rS/Ng/HcL7ON2pka\nRm0OKQ/PlxWgwAZPgwB0D9J3oRN6/z3Y0NWWEyP1cQKBgQDsIoN/XThjA4m9mjCm\nQkeNy6MRRMP/z/ZrvHVraAyUGQ3IbEEUdl3Kc5SiDlucFYFKLv5JMw0FrB9MO8lV\n/7nbP0RBSe0VjZNKnTbGjvwuVzErKpBDUjsNR/b3utc4YiErU1LzjaSCLY4n1/Jo\nj4MXi5tIkqSiJ48zYEiym4KoyQKBgQC1KazZNaI+g2B80gR+nywEId/AlMDvApz8\nX11gSHNBvkSUL54ij8dmk3CivvEWSLmO42rjyjFJ2uaKpJOOSFyy2rU8XQzVLZmM\nMhdtA7lHCUdLSrpby9VxngUFNv5zpEmg6CYXHIXVNScOZ4i3BA8V6hxadNbgVkIv\niy50L6pyzQKBgQC4F4w2/mEYaEi5RX1KEQAh3rFppBe91s7BXXKZYsvzpbimGSd/\noWwrioJE+TaYb/eU8yARxzgOxQq9bxre7fhiomc/Ezg/hllfYUOz9wNJyXYutgc0\nROZ+yy0SI1rovTAoy9Quxq2LQ6LBE00MEV5dO9y67oBlXrv4jMcAX9a0aQKBgQCi\nCLFx4ZfI5AbT/aBJhKKA269ed24NGMBCtiU1bfewsLZz+BcvgHvv0iXnWnMV5Fwb\nYmsDbKAjF6gmD0du9mf7DMUXRX6p2UxB6besKK15zOG4hREj869oHNcOr/5sfl/g\njGMtPrSxWwYgyxer4fSAPFG50lEye9Rc49bb0ppYbQKBgF8iv7woTEl0tyiTkGeD\nFm9dThzTDXeh8SOZw6v5vsxtz3jaUD8EJ3gcK7tGeSVS6+k2NORma4KSrAnE2u3L\ncc/fxfWpzP3BcoDMwpXkPg/pU+U3Sk/xu64moQHeSLY8TLi3b26JdJ+qzY7pZdFx\nZO1lLptVCXDqPa3RIaJ+2eSm\n-----END PRIVATE KEY-----\n",
+  "client_email": "amrit-532@cellular-sylph-421807.iam.gserviceaccount.com",
+  "client_id": "117236660793612068308",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/amrit-532%40cellular-sylph-421807.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
+
+
+START- 
+String- Hi i am testing Blitzico.
+Number- 7875542257
+JSON- [1,2,3,4,5]
+
+
+REST API-
+Method-
+ Get - https://reqres.in/api/users?page=2 
+Post- https://reqres.in/api/users                      
+Body- {
+    "name": "morpheus",
+    "job": "leader"
+}
+Put- https://reqres.in/api/users/2
+Body-{
+    "name": "morpheus",
+    "job": "zion resident"
+}
+Patch-  https://reqres.in/api/users/2
+Body-{
+    "name": "morpheus",
+    "job": "zion resident"
+}
+Delete- https://reqres.in/api/users/2
+
+NER- 
+Hi My mobile number is 7256077229
+
+CALCULATOR-
+Add- 100+20
+         100+20-10
+        $num1 + $num2
+Sub- 100-20
+         100-20+30
+         $num1 - $num2
+Multi- 15*20
+           15*20+10
+          $num1 - $num2
+Divide-  750/15
+              750/5+10
+             $num1 / $num2
+Exp.- (10+20) -(20-10)
+Output- Output
+
+FUNCTION- 
+
+
+To check -
+if(msg.payload==18)
+{
+ return[msg,null]
+ 
+}
+else{
+ return[null,msg]
+}
+
+                          OR
+if(msg.payload >= 21) {
+  return[msg,null]
+} else (msg.payload >= 15) {
+   return[null,msg]
+}  
+CATCH- 
+
+var msg1={payload:"1"}
+var msg2={paylaod:"2"}
+var msg3={payload:"3"}
+
+return [msg1,msg2,msg4];
+
+
+CSV-
+
+Date,Quantity,item
+15-09-2020,3,Orange
+16-09-2020,4,Apple
+17-09-2020,5,Grape
+19-09-2020,7,Mango
+
+TAB AND SPACE
+Date Quantity item
+15-09-2020 3 Orange
+16-09-2020 4 Apple
+17-09-2020 5 Grape
+19-09-2020 7 Mango
+
+
+SEMICOLUMN
+Date;Quantity;item
+15-09-2020;3;Orange
+16-09-2020;4;Apple
+17-09-2020;5;Grape
+19-09-2020;7;Mango
+
+
+COLUMN
+Date:Quantity:item
+15-09-2020:3:Orange
+16-09-2020:4:Apple
+17-09-2020:5:Grape
+19-09-2020:7:Mango
+
+
+HASHTAG
+Date# Quantity# item
+15-09-2020# 3 #Orange
+16-09-2020 #4 #Apple
+17-09-2020# 5 #Grape
+19-09-2020 #7 #Mango
+
+
+
+OTHER(/)
+
+Date/Quantity/item
+15-09-2020/3/Orange
+16-09-2020/4/Apple
+17-09-2020/5/Grape
+19-09-2020/7/Mango
+
+
+
+
+HTTP IN AND HTTP RESPONSE
+
+HTTP In- /amritserver
+Template- <!DOCTYPE html>
+<html lang="en">
+ <head>
+ <title>
+ Response
+ </title>
+ </head>
+ <h1>Page Found</h1>
+</html>
+HTTP Response  status code -200
+
+
+
+                                                    OR
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Amrit Login Page</title>
+<style>
+    * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+    }
+    
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f0f0f0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+    
+    .login-container {
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        width: 300px;
+        text-align: center;
+    }
+    
+    .login-container h2 {
+        margin-bottom: 20px;
+        color: #333;
+    }
+    
+    .login-container .input-group {
+        margin-bottom: 15px;
+        text-align: left;
+    }
+    
+    .login-container .input-group label {
+        display: block;
+        margin-bottom: 5px;
+        color: #666;
+    }
+    
+    .login-container .input-group input {
+        width: 100%;
+        padding: 8px;
+        font-size: 16px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+    
+    .login-container button {
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin-top: 10px;
+        cursor: pointer;
+        border-radius: 5px;
+        transition: background-color 0.3s ease;
+    }
+    
+    .login-container button:hover {
+        background-color: #45a049;
+    }
+</style>
+</head>
+<body>
+    <div class="login-container">
+        <h2>Login</h2>
+        <form action="#" class="login-form">
+            <div class="input-group">
+                <label for="username">Userid </label>
+                <input type="text" id="username" name="username" required>
+            </div>
+            <div class="input-group">
+                <label for="password">Password bhi</label>
+                <input type="password" id="password" name="password" required>
+            </div>
+            <button type="Chal ab sumbit kar">Ho Gya</button>
+        </form>
+    </div>
+</body>
+</html>
+
+
+
+
+
+
